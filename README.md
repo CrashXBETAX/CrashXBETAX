@@ -1,8 +1,8 @@
 # Olá! Sou Gabriel Hagui
 
-👨‍🎓 Sou estudante de curso Ciência de Computação e iniciante de Python desde ano 2020
+👨‍🎓 Sou estudante de curso Ciência de Computação
 
-🎂 Tenho 21 anos
+🎂 Tenho 22 anos
 
 🎯 Meu objetivo é aprender e construir Machine Learning com Python até ano 2026
 
